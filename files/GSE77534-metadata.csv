@@ -1,0 +1,9 @@
+Sample_geo_accession,Sample Title,age,exposed to,gender,strain background,tissue
+GSM2054036,cold exposed 1,adult,4C environment temperature,male,C57BL6,Brown adipose tissue (BAT)
+GSM2054037,cold exposed 2,adult,4C environment temperature,male,C57BL6,Brown adipose tissue (BAT)
+GSM2054038,cold exposed 4,adult,4C environment temperature,male,C57BL6,Brown adipose tissue (BAT)
+GSM2054039,cold exposed 5,adult,4C environment temperature,male,C57BL6,Brown adipose tissue (BAT)
+GSM2054040,thermo-neutral 1,adult,thermoneutral temperature (29C),male,C57BL6,Brown adipose tissue (BAT)
+GSM2054041,thermo-neutral 2,adult,thermoneutral temperature (29C),male,C57BL6,Brown adipose tissue (BAT)
+GSM2054042,thermo-neutral 4,adult,thermoneutral temperature (29C),male,C57BL6,Brown adipose tissue (BAT)
+GSM2054043,thermo-neutral 5,adult,thermoneutral temperature (29C),male,C57BL6,Brown adipose tissue (BAT)
