@@ -20,7 +20,7 @@
 #############################################
 ########## 1. limma
 #############################################
-.libPaths( c( .libPaths(), "C:/Users/hernaj34/Documents/R/win-library/3.5") )
+#.libPaths( c( .libPaths(), "C:/Users/hernaj34/Documents/R/win-library/3.5") )
 fileConn<-file("c:/temp/output.txt")
 writeLines(.libPaths(), fileConn)
 close(fileConn)
