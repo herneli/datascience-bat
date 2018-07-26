@@ -1,0 +1,11 @@
+Term;Overlap;P-value;Adjusted P-value;Z-score;Genes
+very long-chain fatty acid metabolic process (GO:0000038);8/30;0,000005;0,009;-1,94;"ABCD3;ELOVL4;ELOVL3;ACOT1;ELOVL6;ELOVL7;HACD2;ACOT4"
+fatty acid elongation, saturated fatty acid (GO:0019367);4/8;0,000085;0,018;-2,95;"ELOVL4;ELOVL3;ELOVL6;ELOVL7"
+fatty acid elongation, unsaturated fatty acid (GO:0019368);4/8;0,000085;0,018;-2,78;"ELOVL4;ELOVL3;ELOVL6;ELOVL7"
+fatty acid elongation, polyunsaturated fatty acid (GO:0034626);4/8;0,000085;0,018;-2,74;"ELOVL4;ELOVL3;ELOVL6;ELOVL7"
+very long-chain fatty acid biosynthetic process (GO:0042761);5/14;0,000071;0,018;-2,05;"ELOVL4;ELOVL3;ELOVL6;ELOVL7;HACD2"
+fatty acid elongation (GO:0030497);5/13;0,000047;0,018;-1,87;"ELOVL4;ELOVL3;ELOVL6;ELOVL7;HACD2"
+fatty acid elongation, monounsaturated fatty acid (GO:0034625);4/8;0,000085;0,018;-1,70;"ELOVL4;ELOVL3;ELOVL6;ELOVL7"
+fatty acid metabolic process (GO:0006631);13/107;0,000073;0,018;-1,32;"SCARB2;ACOT8;CPT1A;ABCD3;ELOVL4;ACOT11;ACOT12;LPL;GPAM;ACOT1;ALOXE3;PPARGC1A;ACOT4"
+long-chain fatty acid metabolic process (GO:0001676);9/56;0,000108;0,021;-1,51;"ACOT8;CPT1A;ELOVL3;GSTA1;ACOT1;ELOVL6;ADTRP;ALOXE3;ACOT4"
+long-chain fatty-acyl-CoA metabolic process (GO:0035336);6/26;0,000199;0,035;-1,85;"DGAT1;ELOVL3;ACSL5;ELOVL6;ELOVL7;HACD2"

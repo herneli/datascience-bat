@@ -1,0 +1,4 @@
+Term;Overlap;P-value;Adjusted P-value;Z-score;Combined Score;Genes
+Glycerolipid metabolism;9/59;0,0002;0,018;-1,926;16,796;"DGKG;GK;DGAT1;GPAM;ALDH1B1;LIPG;LPL;AGPAT2;LCLAT1"
+Fatty acid elongation;6/25;0,0002;0,018;-1,553;13,601;"ELOVL4;ELOVL3;ACOT1;ELOVL6;ELOVL7;ACOT4"
+PPAR signaling pathway;9/69;0,0005;0,041;-1,661;12,486;"CPT1A;FABP3;GK;ACOX2;EHHADH;UCP1;ACSL5;APOC3;LPL"

@@ -1,0 +1,5 @@
+Term;Overlap;P-value;Adjusted P-value;Z-score;Combined Score;Genes
+fatty acid elongase activity (GO:0009922);4/8;0,00008;0,037;-3,017;28,291;"ELOVL4;ELOVL3;ELOVL6;ELOVL7"
+acyl-CoA hydrolase activity (GO:0047617);5/18;0,00027;0,040;-2,078;17,065;"ACOT8;ACOT11;ACOT12;ACOT1;ACOT4"
+CoA hydrolase activity (GO:0016289);5/18;0,00027;0,040;-1,936;15,901;"ACOT8;ACOT11;ACOT12;ACOT1;ACOT4"
+fatty acid synthase activity (GO:0004312);4/11;0,00037;0,040;-2,753;21,775;"ELOVL4;ELOVL3;ELOVL6;ELOVL7"
